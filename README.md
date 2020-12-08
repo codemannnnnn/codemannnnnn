@@ -4,13 +4,13 @@ I'm Cody. I'm a software engineer focused on Full Stack Web Development. I love 
 
 
 #### Things I love...
-• Snowmobiling ❄️
-• Hunting 🔫
-• Fishing 🎣
-• Friends/Family
-• Outdoors 🏔
-• Coding 💻
-• Coffee ☕️
+- Snowmobiling ❄️
+- Hunting 🔫
+- Fishing 🎣
+- Friends/Family
+- Outdoors 🏔
+- Coding 💻
+- Coffee ☕️
 
 #### Favorite Language...
 - Javascript
