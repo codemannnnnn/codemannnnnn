@@ -26,3 +26,4 @@ I'm Cody. I'm a software engineer focused on Full Stack Web Development. I love 
 
 #### Contact Me...
 - twitter.com/codemannnnnn
+- linkedin.com/in/cody-branson
